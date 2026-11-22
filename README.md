@@ -1,5 +1,6 @@
 # Android VM Workstation Pro
 
+The app is for linux only still
 A QEMU/KVM and Android SDK frontend for Linux with a VirtualBox-style interface. Built to create, customize, and run Android-x86 virtual machines without typing long QEMU or ADB commands manually.
 
 ## Features
